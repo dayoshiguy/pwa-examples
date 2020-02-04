@@ -10,6 +10,6 @@
     }
   ],
   "name": "Name",
-  "short_name": "Foxes",
+  "short_name": "Test",
   "start_url": "/pwa-examples/a2hs/index.html"
 }
