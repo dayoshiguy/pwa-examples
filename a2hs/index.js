@@ -1,10 +1,8 @@
-const images = ['fox1','fox2','fox3','fox4'];
-const imgElem = document.querySelector('img');
+/*
+put code here
 
-function randomValueFromArray(array) {
-  let randomNo =  Math.floor(Math.random() * array.length);
-  return array[randomNo];
-}
+
+*/
 
 setInterval(function() {
   let randomChoice = randomValueFromArray(images);
