@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Name",
-  "short_name": "Test",
+  "name": "2048",
+  "short_name": "2048",
   "start_url": "https://neiunderscore.github.io/2048-timer/"
 }
