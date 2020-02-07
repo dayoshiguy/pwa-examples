@@ -6,8 +6,7 @@ self.addEventListener('install', function(e) {
        '/pwa-examples/a2hs/index.html',
        '/pwa-examples/a2hs/index.js',
        '/pwa-examples/a2hs/style.css',
-       '/pwa-examples/a2hs/images/fox1.jpg',
-      'https://neiunderscore.github.io/2048-timer/'
+       '/pwa-examples/a2hs/images/fox1.jpg'
      ]);
    })
  );
